@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 447" role="img" aria-labelledby="title desc">
+  <title id="title">Joel's developer terminal</title>
+  <desc id="desc">An ASCII portrait of Joel beside a terminal introduction. Full-stack developer from Sri Lanka working with Angular, ASP.NET Core, and SQL Server.</desc>
+  <rect x="1" y="1" width="758" height="445" rx="18" fill="#0b121b" stroke="#294453" stroke-width="2"/>
+  <path d="M1 52h758M1 402h758M354 96v280" stroke="#294453"/>
+  <circle cx="27" cy="26" r="5" fill="#ff7b8a"/>
+  <circle cx="44" cy="26" r="5" fill="#f6c675"/>
+  <circle cx="61" cy="26" r="5" fill="#68e8b2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="86" y="31" font-size="14" fill="#a4bdc7">joel@github: ~/profile</text>
+    <text x="31" y="79" font-size="14" fill="#68e8b2">$ whoami --verbose</text>
+    <g font-size="10.4" xml:space="preserve">
+    <text x="32" y="112" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#68e8b2">             --+******++++===-                  </text>
+    <text x="32" y="124" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#68e8b2">         -+=*#%%%@@%%%%%%####**+=-              </text>
+    <text x="32" y="136" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#68e8b2">      -=+*##%@@@@@@@@@@@@@@@@%%%#*++            </text>
+    <text x="32" y="148" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#68e8b2">     =+*%%@@@@@@@@@@@@%%%%%%%@@@####*+*         </text>
+    <text x="32" y="160" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#68e8b2">   *****#@@@@%%###*++=+=++===+*%%%##%##*        </text>
+    <text x="32" y="172" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#68e8b2">   #%%###@@%*+=====-----------=+*%@@%%%#        </text>
+    <text x="32" y="184" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#50ce9d">   ##%@@%@@*===-----------:::::--=#@@%%#        </text>
+    <text x="32" y="196" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#50ce9d">       +#@*=========------==++===--+%%%*        </text>
+    <text x="32" y="208" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#50ce9d">        #%=-+###%%%#*=--=+*##***+=-:+@#         </text>
+    <text x="32" y="220" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#50ce9d">         %-=##**###%*-:-=+*###*+++-:+%#         </text>
+    <text x="32" y="232" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#50ce9d">        +*==*##%%***=:::--=+***+=--:=+=+        </text>
+    <text x="32" y="244" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#50ce9d">       ***=:--======-:::::::::::::::--=+        </text>
+    <text x="32" y="256" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#37b587">       ****:-----=====--=---:::::::-==-=        </text>
+    <text x="32" y="268" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#37b587">        *++=-======#%#***=::::----:==:-         </text>
+    <text x="32" y="280" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#37b587">         *+*===*###%#***#++++=----+#=:          </text>
+    <text x="32" y="292" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#37b587">          *#%**%%%#*+====+**##+-=*%#=           </text>
+    <text x="32" y="304" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#37b587">           +#@%#*+++*++++==--==+%%%*            </text>
+    <text x="32" y="316" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#37b587">           --*@@%*++****=----=#@#=*             </text>
+    <text x="32" y="328" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#229c79">            -:=%@@#*++++==++*%%*-:==            </text>
+    <text x="32" y="340" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#229c79">            :-:=#%@@@@@@@@@%#*=--:.--           </text>
+    <text x="32" y="352" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#229c79">         *+=:+::+++*###%##*+-----..-=--         </text>
+    <text x="32" y="364" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#229c79">     :--=++-=#..:=**++**++=====-:..:=--==-:     </text>
+    <text x="32" y="376" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#229c79">   --==+**==*#:...:+**++++++=-:....-=---==--::  </text>
+    <text x="32" y="388" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#229c79">  ====+**==**#-.....:=+++++-:......=+==--=+==-- </text>
+    </g>
+    <text x="381" y="133" font-size="13" fill="#68e8b2">01 / DEVELOPER PROFILE</text>
+    <text x="377" y="196" font-size="60" font-weight="700" fill="#effbf9">JOEL</text>
+    <text x="381" y="228" font-size="17" fill="#b6cfda">Full-stack developer</text>
+    <text x="381" y="253" font-size="14" fill="#8aaab7">Sri Lanka / @Joel-UCA</text>
+    <path d="M381 274h337" stroke="#294453"/>
+    <text x="381" y="302" font-size="14" fill="#68e8b2">UI</text>
+    <text x="450" y="302" font-size="14" fill="#e0edf0">Angular / TypeScript</text>
+    <text x="381" y="329" font-size="14" fill="#68e8b2">API</text>
+    <text x="450" y="329" font-size="14" fill="#e0edf0">ASP.NET Core / C#</text>
+    <text x="381" y="356" font-size="14" fill="#68e8b2">DATA</text>
+    <text x="450" y="356" font-size="14" fill="#e0edf0">SQL Server / EF Core</text>
+    <text x="31" y="429" font-size="13" fill="#9bb5c0">[ ready ]</text>
+    <rect x="112" y="417" width="8" height="13" fill="#68e8b2"/>
+  </g>
+</svg>
